@@ -4,6 +4,8 @@
 >
 > **简介**：RDT-1B 论文组会分享 slides —— 帮助大家快速理解清华大学机器学习组提出的 Robotics Diffusion Transformer（RDT-1B）工作。
 
+[English README](README_EN.md)
+
 ---
 
 ## 关于本仓库
